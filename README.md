@@ -3,15 +3,13 @@ Its Simple 3d rpg tanks game where you need to shoot AI turret inorder to win
 
 Introduction:
 
-Welcome to Toon Tanks, a fun and exciting game where players control a tank and shoot turrets in order to win. This README file will provide instructions on how to play the game, as well as some tips and tricks to help you succeed.
+Welcome to Toon Tanks, a fun and exciting game where players control a tank and shoot turrets in order to win. You can also play with friends by connecting players through internet to cloud servers . The cloud service that i have used is playfab provided by microsoft azure . Here User should login or register through hi/her emailID password then only player able to play. 
 
-Installation:
-
-In order to play you need to clone the this repository to your device . Then import this file into your Unreal engine there you can play on editor mode or build the project on the platform which you are most suitable for .
+Through login playfab will create ticket for the queue without it the player cant play the game after successful login player requies to go to multiplayer widgets the click on matchmaking. It is reqire to have at least 2 players trying to join match making then only they will get connected to servers.
 
 Gameplay:
 
-Toon Tanks is a single-player game where the objective is to destroy all of the turrets on the map. You control a tank using the keyboard or controller and must navigate around obstacles and other hazards to reach the turrets. Once you are close enough to a turret, you can shoot it using your tank's cannon.
+Toon Tanks is a single-player game where the objective is to destroy all of the turrets on the map. You control a tank using the keyboard or controller and must navigate around obstacles and other hazards to reach the turrets. Once you are close enough to a turret, you can shoot it using your tank's cannon. 
 
 Controls:
 
@@ -23,4 +21,20 @@ To shoot the cannon, press the left mouse button on the keyboard or the right tr
 
 Conclusion:
 
-Toon Tanks is a fun and challenging game that requires skill and strategy to win. We hope you enjoy playing the game and that this README file has provided you with the information you need to get started. If you have any questions or feedback, please don't hesitate to contact me . Good luck, and happy tanking!
+Contributions to the project are welcome! To contribute, fork the repository and create a pull request with your changes. Please make sure your code follows the existing code style and is well-documented. Game has some usefull codes and mechancis that you can customize your own way .
+
+Sample Images :
+
+![image](https://user-images.githubusercontent.com/104272327/224265759-2d309e67-1c80-467a-a5b0-a2037554d77c.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224265952-ca90236a-9d1f-4656-a772-e8b6e33ad876.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224266388-baad8577-29f0-4f57-94fe-5cde702a5c20.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224266503-8c953e18-e968-4ec3-a193-0b1361bd6232.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224268564-e0278d8d-d8fa-4922-b0af-b5b83e74051c.png)
+
+
+
+
